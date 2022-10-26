@@ -5,8 +5,12 @@ Basically a 3D super Mario, but the player is a capsule.
 This is a project for learning Unity 3D, I followed the steps of a tutorial.
 # Details
 - Made with Unity 3D
-# Credits
-- Music:
-- Sound effects:
-- Tutorial:
+
 # Results
+
+# Credits
+- Music: Casual Game Music: Happy, Bouncy, Social by Intersonic Sound on Unity Asset Store[(Link)](https://assetstore.unity.com/packages/audio/music/electronic/casual-game-music-happy-bouncy-social-214104)
+
+- Sound effects: FREE Casual Game SFX Pack by DustyRoom on Unity Asset Store[(Link)](https://assetstore.unity.com/packages/p/free-casual-game-sfx-pack-54116)
+
+- Tutorial: Build Your First 3D Game in Unity | Unity Beginner Tutorial by Coding in Flow [(Youtube Playlist)](https://www.youtube.com/playlist?list=PLrnPJCHvNZuB5ATsJZLKX3AW4V9XaIV9b)
